@@ -1,0 +1,99 @@
+* {
+    box-sizing: border-box;
+}
+
+.animal-photo {
+    width: 100px;
+}
+
+/*
+@media screen and (max-width: 640px) {
+    .container {
+        width: 90%;
+    }
+    #thirdpart {
+        width: 90%;
+        margin-left: 10px;
+    }
+    #Rect1 {
+        height: 800px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .radio-inline {
+        font-size: 10px;
+    }
+    #submitbutton {
+        font-size: 17px;
+        float: right;
+        margin-top: 470px;
+    }
+    #startbutton {
+        font-size: 17px;
+        padding: 14px 40px;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+    #thirdpart {
+        width: 90%;
+        margin-left: 10px;
+    }
+    #Rect1 {
+        height: 1000px;
+    }
+    p {
+        font-size: 17px;
+    }
+    .radio-inline {
+        font-size: 13px;
+    }
+    #submitbutton {
+        font-size: 18px;
+        float: right;
+        margin-top: 600px;
+    }
+    #startbutton {
+        font-size: 18px;
+        padding: 14px 40px;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .container {
+        width: 100%;
+    }
+    #thirdpart {
+        width: 100%;
+        margin-left: 10px;
+    }
+    #Rect1 {
+        height: 700px;
+    }
+    p {
+        font-size: 18px;
+    }
+    .radio-inline {
+        font-size: 13px;
+    }
+    #submitbutton {
+        font-size: 18px;
+        float: right;
+        margin-top: 400px;
+    }
+    #startbutton {
+        font-size: 18px;
+        padding: 14px 40px;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+}
+*/
