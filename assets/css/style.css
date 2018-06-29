@@ -3,7 +3,25 @@
 }
 
 .animal-photo {
-    width: 100px;
+    /* width: 100px; */
+    width: 80%;
+}
+
+.btn {
+    background-color: darkcyan;
+}
+
+.giphy {
+    background-color: darkcyan;
+    size: 70px;
+}
+
+.pOne {
+    display: inline;
+}
+
+.image-div {
+    float: left;
 }
 
 /*
